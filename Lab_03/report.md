@@ -1,1 +1,1 @@
-![Training results](results/calculation.png)
+![Training results](results/calculation.jpg)
