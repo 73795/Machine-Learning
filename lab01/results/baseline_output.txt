@@ -1,0 +1,2 @@
+Logistic Regression accuracy: 0.9415
+Random Forest accuracy: 0.9357
